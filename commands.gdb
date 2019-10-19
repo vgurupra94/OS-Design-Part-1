@@ -1,0 +1,10 @@
+source /home/manish/Downloads/weenix/kernel/main/gdt.gdb
+source /home/manish/Downloads/weenix/kernel/mm/pagetable.gdb
+source /home/manish/Downloads/weenix/kernel/mm/page.py
+source /home/manish/Downloads/weenix/kernel/mm/memcheck.py
+source /home/manish/Downloads/weenix/kernel/mm/slab.py
+source /home/manish/Downloads/weenix/kernel/proc/kthread.gdb
+source /home/manish/Downloads/weenix/kernel/proc/proc.py
+source /home/manish/Downloads/weenix/kernel/util/debug.py
+source /home/manish/Downloads/weenix/kernel/util/list.py
+source /home/manish/Downloads/weenix/kernel/vm/vmmap.gdb
